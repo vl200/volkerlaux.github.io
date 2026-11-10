@@ -27,13 +27,16 @@ def paper(item, published=False):
             citation += f'<span class="citation-separator"> · </span>{esc(item["citation"])}'
         citation += '</p>'
     summary = f'<p class="paper-summary">{esc(item["summary"])}</p>' if item.get("summary") else ""
+    extras = "".join(f'<a class="paper-link" href="{esc(x["url"], quote=True)}">{esc(x["label"])} <span aria-hidden="true">↗</span></a>'
+                     for x in item.get("links", []))
+    extras = f'<p class="paper-links">{extras}</p>' if extras else ""
     return f'''        <li class="paper{' publication' if published else ''}">
           <article>
             <div class="paper-content">
               <h3>{title}</h3>
               {author}
               {citation}
-              {summary}
+              {summary}{extras}
             </div>
           </article>
         </li>'''

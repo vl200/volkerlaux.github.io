@@ -27,7 +27,13 @@
       "journal": "",
       "citation": "",
       "summary": "Optimal audit standards become stricter as financing constraints tighten, because stricter audits raise the income firms can credibly promise investors, and the added financing is worth most where underinvestment is most severe.",
-      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6560938"
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6560938",
+      "links": [
+        {
+          "label": "CLS Blue Sky Blog post",
+          "url": "https://clsbluesky.law.columbia.edu/2026/11/10/why-audit-relief-can-hurt-financially-constrained-firms/"
+        }
+      ]
     },
     {
       "title": "Effects of Revealing Client Names in PCAOB Inspection Reports on Private Litigation, Audit Effort, and Auditor Conservatism",

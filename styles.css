@@ -60,6 +60,10 @@ main { min-width: 0; }
 .citation em { font-style: italic; color: #4a4d45; }
 .citation-separator { color: #7e8178; padding-inline: 2px; }
 .paper-summary { margin: 10px 0 0; color: #3d3f3a; font-size: 16.5px; line-height: 1.65; max-width: 44em; }
+.paper-links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 10px 0 0; }
+.paper-link { color: var(--accent); text-decoration: none; font-size: 14.5px; font-weight: 500; }
+.paper-link:hover { text-decoration: underline; }
+.paper-link span { font-size: 13px; }
 .site-footer { margin-top: 48px; }
 .footer-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 1px solid var(--line); padding-block: 23px 30px; color: var(--muted); font-size: 14px; }
 .footer-inner p { margin: 0; }
