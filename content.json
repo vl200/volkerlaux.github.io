@@ -95,7 +95,13 @@
       "journal": "Journal of Accounting Research",
       "citation": "62 (2024), 981–1005",
       "summary": "As a CEO’s confidence in their vision grows, the board shifts from advising to monitoring to rubberstamping, because imposing an alternative strategy can undermine the CEO’s motivation to implement it.",
-      "summary_source": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12514"
+      "summary_source": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12514",
+      "links": [
+        {
+          "label": "CLS Blue Sky Blog post",
+          "url": "https://clsbluesky.law.columbia.edu/2022/02/03/what-role-do-boards-play-in-companies-with-visionary-ceos/"
+        }
+      ]
     },
     {
       "title": "Accounting Conservatism and Managerial Information Acquisition",
@@ -105,7 +111,13 @@
       "journal": "Journal of Accounting and Economics",
       "citation": "77 (2024), 101630",
       "summary": "Managers who want to keep their projects alive work harder to overturn false alarms than to expose problems hidden by optimistic reports, so the errors conservative accounting makes are the ones managers are eager to correct.",
-      "summary_source": "https://doi.org/10.1016/j.jacceco.2023.101630"
+      "summary_source": "https://doi.org/10.1016/j.jacceco.2023.101630",
+      "links": [
+        {
+          "label": "CLS Blue Sky Blog post",
+          "url": "https://clsbluesky.law.columbia.edu/2020/08/21/how-managers-ability-to-gather-information-can-affect-the-value-of-conservative-accounting/"
+        }
+      ]
     },
     {
       "title": "Early-Warning Signals and Risk-Shifting Incentives",
@@ -135,7 +147,13 @@
       "journal": "Journal of Accounting Research",
       "citation": "60 (2022), 353–371",
       "summary": "Optimistic managers may choose tighter debt covenants, even though lenders will then liquidate more often, because letting lenders recover more through liquidation lowers the repayment owed if the project succeeds, an outcome optimists overrate.",
-      "summary_source": "https://doi.org/10.1111/1475-679X.12402"
+      "summary_source": "https://doi.org/10.1111/1475-679X.12402",
+      "links": [
+        {
+          "label": "CLS Blue Sky Blog post",
+          "url": "https://clsbluesky.law.columbia.edu/2020/02/17/managerial-optimism-and-debt-covenants/"
+        }
+      ]
     },
     {
       "title": "Debt Covenants and Accounting Manipulation",
