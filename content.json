@@ -323,7 +323,13 @@
       "journal": "The Accounting Review",
       "citation": "84 (2009), 869–891",
       "summary": "Assigning compensation and audit responsibilities to separate board committees can raise both stock-based CEO pay and board oversight, because a compensation committee that does not bear monitoring costs grants more stock-based pay, which prompts the audit committee to monitor more.",
-      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1299773"
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1299773",
+      "links": [
+        {
+          "label": "Harvard Law School Forum post",
+          "url": "https://corpgov.law.harvard.edu/2009/01/30/board-committees-ceo-compensation-and-earnings-management/"
+        }
+      ]
     },
     {
       "title": "Board Independence and CEO Turnover",
